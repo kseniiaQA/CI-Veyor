@@ -27,8 +27,7 @@
         "type": "integer"
       },
       "currency": {
-        "type": "stringg",
-
+        "type": "string"
       }
     }
   }
