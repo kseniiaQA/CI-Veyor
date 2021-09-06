@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/23iawvg0douwh2d2?svg=true)](https://ci.appveyor.com/project/Orlov-D/aqa-1-2-1-api-ci-appveyor)
+[![Build status](https://ci.appveyor.com/api/projects/status/7r5o8ta215ua24w3?svg=true)](https://ci.appveyor.com/project/kseniia/veyor-o6pxx)
